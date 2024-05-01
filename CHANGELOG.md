@@ -4,12 +4,13 @@
 4/28/24
 ### Contributors
 ...
-Matthew Huntley 
-
+Matthew Huntley
+Matthue Walsh
 ### Added
 ...
 schematic.png
-
+updated schematic
+pcb layout
 ### Changed
 ...
 CHANGELOG.MD

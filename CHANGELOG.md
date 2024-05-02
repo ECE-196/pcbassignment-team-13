@@ -9,10 +9,11 @@ Matthue Walsh
 ### Added
 ...
 schematic.png
-updated schematic
+Added Diptrace Project files
+
 pcb layout
 ### Changed
-...
+Updated Schematic and layout
 CHANGELOG.MD
 ### Removed
 ...
